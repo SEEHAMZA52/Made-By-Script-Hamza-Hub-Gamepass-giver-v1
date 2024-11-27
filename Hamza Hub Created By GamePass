@@ -1,0 +1,6 @@
+local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
+local window = DrRayLibrary:Load("HAMZA HUB GamePass", "Default")
+local tab = DrRayLibrary.newTab("GamePass SCRIPT", "ImageIdHere")
+tab.newButton("GamePass V1", "Credit To SeeHamza!", function(value)
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/BaconBossScript/Crazy/main/Crazy'),true))()
+end)
